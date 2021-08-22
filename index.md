@@ -7,11 +7,15 @@ First a concept drawing and notes for the measurement of the connector and switc
 ![](Pics/Concept%20drawing.JPG)
 
 
+Time for designing the casing!  This is done in Autodesk Fusion 360. I couldn't find the connector and switch anywhere, so ended up drawing everything myself. This also ensures that it is the right dimensions ..or at least I know who to blame afterward :) 
 
 ![](Pics/RS-232%20render%20-%20opeg.JPG)
 
+3D printed in PLA:
 
 ![](Pics/Real%201.JPG)
+
+Added a colorful label with pinout. This is just printed on my laser printer and glued on.
 ![](Pics/Real%202.JPG)
 
 
