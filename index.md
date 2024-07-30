@@ -18,5 +18,6 @@ Time for designing the casing!  This is done in Autodesk Fusion 360. I couldn't 
 Added a colorful label with pinout. This is just printed on my laser printer and glued on.
 ![](Pics/Real%202.JPG)
 
+[Back to main](https://haldinc.github.io/)
 
 
